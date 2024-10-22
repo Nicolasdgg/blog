@@ -260,3 +260,6 @@ footer {
         transform: translateY(-10px) translateX(-50%);
     }
 }
+main {
+    padding-top: 80px; 
+}
