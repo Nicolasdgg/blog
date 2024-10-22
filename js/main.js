@@ -1,0 +1,1 @@
+console.log('DataFuture Blog - JS cargado');
